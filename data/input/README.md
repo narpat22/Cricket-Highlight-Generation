@@ -1,0 +1,1 @@
+input file should be in this folder with extension mp4
