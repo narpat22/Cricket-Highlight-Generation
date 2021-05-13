@@ -91,6 +91,7 @@ class highlight_generation():
     def generate(self):
         filename = "highlights_" + self.dataset
         self.load_audio()
+        # testing
         self.get_window_length()
         self.get_short_time_energy()
         self.select_shots()
